@@ -1,0 +1,25 @@
+/* Global setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: black;
+    height: 45px;
+    position: relative;
+}
+
+header img{
+    display: inline-block;
+    width: 100px;
+    position: absolute;
+    right: 20px;
+    bottom:12px;
+    
+}
