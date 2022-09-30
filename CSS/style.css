@@ -78,5 +78,19 @@ header img{
     padding-bottom: 20px;
 }
 
+/* Carosello */
+
+
+/* #carosello .container-fluid .col-6 .col-md-4 .col-xl-2{
+    width: calc(100%/6);
+} .*/
+
+.thumbnail{
+    padding: 0;
+    width: 100%;
+    border-radius: 17px;
+    border: 2px black solid;
+
+}
 
 
