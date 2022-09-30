@@ -28,6 +28,20 @@ header img{
 /* Navbar */
 
 
-#nav .navbar .navbar-expand-lg .navbar-light .bg-light {
-    width: 25px;
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+#lente {
+    width: 27px;
+    padding-top: 5px;
 }
