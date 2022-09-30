@@ -45,3 +45,38 @@ header img{
     width: 27px;
     padding-top: 5px;
 }
+
+/* Returnal */
+
+#returnal{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+#returnal .container-fluid .row .col-12{
+    color: #ffffff;
+    padding-left: 50px;
+}
+
+#returnal .container-fluid .row .col-12 img{
+    margin-top: 220px;
+    width: 50%;
+}
+
+#returnal .container-fluid .row .col-12 a{
+    text-decoration: none;
+    background-color: #cd3d0f;
+    color: #ffff;
+    border-radius: 30px;
+    padding: 8px;
+}
+
+#returnal .container-fluid .row .col-12 p{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+
+
